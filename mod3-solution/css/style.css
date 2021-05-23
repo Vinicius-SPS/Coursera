@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+.tile{
+    background-color: teal;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: justify;
+    border: 1px solid black;
+    height: 1000px;
+}
+
+h2{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+h3{
+    text-align: center;    
+}
+
+div ul a{
+    text-align: center;
+    font-size: 15px;
+}
